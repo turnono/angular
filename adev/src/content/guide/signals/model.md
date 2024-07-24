@@ -1,4 +1,4 @@
-# Model inputs
+# Model inputs (Banana-in-Box inputs)
 
 **Model inputs** are a special type of input that enable a component to propagate new values
 back to another component.
